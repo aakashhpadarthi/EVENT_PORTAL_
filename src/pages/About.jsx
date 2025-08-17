@@ -6,33 +6,13 @@ const About = () => {
   const teamMembers = [
     {
       name: "PADARTHI AAKASH",
-      role: "FRONT-END Developer",
+      role: "Full Stack Developer",
       email: "aakashpadarti@gmail.com",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQufoeLzTlBATvAUDLZsCCxMEWHl--yHDFW6R2tx09AEs6XLQe26xH6y91PEZmjpy1ndYQ&usqp=CAU",
-      github: "https://github.com/saiteja",
-      linkedin: "https://linkedin.com/in/saiteja",
-      skills: ["React", "Tailwind CSS", "JavaScript", "UI/UX"],
+      github: "https://github.com/aakashhpadarthi",
+      linkedin: "www.linkedin.com/in/aakash-padarthi-09142a259",
+      skills: ["React", "Tailwind CSS", "JavaScript", "UI/UX","MangoDB"],
       description: "Frontend specialist focused on creating responsive and intuitive user interfaces. Lead designer for the EventFlow user experience."
-    },
-    {
-      name: "PASUPULETI REVANTH VENKAT",
-      role: "Full Stack Developer",
-      email: "prvenkat113@gmail.com",
-      image: "https://static.vecteezy.com/system/resources/previews/024/959/971/non_2x/businessman-portrait-elegant-man-in-business-suit-employee-of-business-institution-in-uniform-man-office-worker-business-avatar-profile-picture-illustration-vector.jpg",
-      github: "https://github.com/saikiran",
-      linkedin: "https://linkedin.com/in/saikiran",
-      skills: ["React", "Node.js", "MongoDB", "Express"],
-      description: "Experienced full-stack developer specializing in MERN stack development. Team lead and architecture designer for the EventFlow platform."
-    },
-    {
-      name: "NALLURI NAGASAI",
-      role: "Backend Developer",
-      email: "nagasai.nalluri@gmail.com",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Gzg39YL5MWAoUpmingPwYaLsuaUVbZG9MfbTOdaeewywGGwyocgQOEpHOxKzRJAIG-Q&usqp=CAU",
-      github: "https://github.com/saikrishna",
-      linkedin: "https://linkedin.com/in/saikrishna",
-      skills: ["Node.js", "MongoDB", "Express", "API Design"],
-      description: "Backend expert specializing in database design and API development. Core developer of EventFlow's booking system."
     }
   ];
 

@@ -55,16 +55,16 @@ const Contact = () => {
                   <div>
                     <p className="text-lg font-semibold mb-2">Office Address</p>
                     <p className="text-gray-200">
-                      123 Business Avenue<br />
-                      Admin Block, Mangalagiri<br />
+                      Sri Narayani Homes, flat No: 109<br />
+                      New BAnk Colony, Mangalagiri<br />
                       Andhra Pradesh, India
                     </p>
                   </div>
 
                   <div>
                     <p className="text-lg font-semibold mb-2">Contact Details</p>
-                    <p className="text-gray-200 mb-1">Phone:<br></br> +91 6305504498,<br></br>     +91 9248865088,<br></br> +91 9391449942 </p><br></br>
-                    <p className="text-gray-200">Email: <br></br>aakashpadarti@gmail.com<br></br>prvenkat113@gmail.com<br></br>nagasai.nalluri@gmail.com</p>
+                    <p className="text-gray-200 mb-1">Phone:<br></br> +91 6305504498 </p><br></br>
+                    <p className="text-gray-200">Email: <br></br>aakashpadarti@gmail.com</p>
                   </div>
 
                   <div>
